@@ -1,3 +1,5 @@
+### plotting us heat maps using R
+## here I have plotted the heat map for us obesity
 library(usmap)
 library(ggplot2)
 library(magrittr)
