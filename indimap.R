@@ -1,3 +1,5 @@
+## here I have plotted the India heat maps for obesity bmi and life expectancy 
+## since no ready-made package is avaialbe to plot india maps I have used the shape files. 
 library("rgdal")
 library(rgeos)
 library(ggplot2)
